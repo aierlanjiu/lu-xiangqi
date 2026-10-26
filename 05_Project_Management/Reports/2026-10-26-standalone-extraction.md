@@ -11,3 +11,5 @@
 验证：18 项规则、Wukong AI、模块语法检查通过；桌面 1440×1000 与手机 390×844 的完整 E2E 通过，包含真实走棋／AI／撤回、士的斜走与宽容命中、棋谱导入导出和两种主题。真实 Pikafish 搜索返回 c3c4，depth 24、10,509,977 nodes，桌面及手机页面异常均为零。实体手机未验。
 
 本轮只交付独立源码仓库，不启用象棋 Pages。输出截图位于本项目忽略目录 output/playwright/；原逐文件备份记录保存在音乐项目 output/agy-source-submit-20261026-211222/。
+
+独立 GitHub 仓库已建立并推送：https://github.com/aierlanjiu/lu-xiangqi ，源码提交 de1e5921c4cb3401f02adb1c7983a704821ff56e；本轮没有启用其 Pages。
